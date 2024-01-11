@@ -109,7 +109,7 @@ First things first, you really need to understand how things work before start t
 - ![](https://img.shields.io/badge/status-in%20progress-orange)
 - Add Foundational level modules (~~networking~~, ~~virtualization~~, crypto, linux kernel and scripting).
 - Bonus modules to add:
-    - ~~Introduction to Infosec terms and methodologies (from [CEH Study Guide](https://github.com/Samsar4/CEH-v10-Study-Guide))~~
+    - ~~Introduction to Infosec terms and methodologies (from [CEH Study Guide])~~
     - More Reconnaissance techniques.
     - Active Directory: Lab build and attack vectors.
     - Web application: Enumeration and exploitation using some OWASP Top 10 vulnerabilities and Bug Bounty techniques.
